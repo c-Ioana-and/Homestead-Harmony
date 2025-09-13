@@ -1,0 +1,22 @@
+﻿C:\Users\Andreea\Desktop\t$m$p$$$\proiect_GL.max
+C:\Users\Andreea\Desktop\t$m$p$$$\MAXFILES.TXT
+D:\Autodesk\3ds Max 2024\maps\HDRI\ADS_StudioLigting_2k.hdr
+D:\Autodesk\3ds Max 2024\maps\HDRILights\softKeyWarm.hdr
+D:\Autodesk\3ds Max 2024\Maps\HDRILights\reflectiveUmbrella.hdr
+C:\Users\Andreea\Desktop\Extending_1.jpg
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Masa_Mixed_AO.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Masa_Base_color.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Masa_Roughness.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Masa_Metallic.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Masa_Normal_OpenGL.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Scaun_Base_color.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Scaun_Metallic.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Scaun_Mixed_AO.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Scaun_Normal_OpenGL.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Scaun_Roughness.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Covor_Mixed_AO.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Covor_Base_color.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Covor_Roughness.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Covor_Metallic.tga
+C:\Users\Andreea\Documents\Adobe\Adobe Substance 3D Painter\export\Covor_Normal_OpenGL.tga
+D:\Autodesk\3ds Max 2024\maps\uvwunwrap\UV_Checker.png
